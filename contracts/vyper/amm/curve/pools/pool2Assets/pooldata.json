@@ -1,0 +1,21 @@
+{
+    "lp_constructor": {
+        "name": "Curve.fi A/B",
+        "symbol": "crv2plainAB"
+    },
+    "coins": [
+        {
+            "name": "ATK",
+            "decimals": 18,
+            "tethered": false,
+            "underlying_address": "0x993e10b25b7f64d2d8e3f222f0451deb49ddefb7"
+
+        },
+        {
+            "name": "BTK",
+            "decimals": 18,
+            "tethered": false,
+            "underlying_address": "0x070bd4458dce567eb3c0aa964f07641d84e55c05"
+        }
+    ]
+}

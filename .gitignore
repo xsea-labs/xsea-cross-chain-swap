@@ -1,0 +1,18 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+package-lock.json
+.vscode
+
+#Hardhat files
+cache
+artifacts
+
+# create2
+deployments
+
+# testing
+/coverage
+coverage.json

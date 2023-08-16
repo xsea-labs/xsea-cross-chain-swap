@@ -1,0 +1,4 @@
+{
+  "detectors_to_run": "reentrancy-eth,reentrancy-no-eth,reentrancy-unlimited-gas,uninitialized-state,uninitialized-storage,msg-value-loop",
+  "filter_paths": "contracts/solidity"
+}
